@@ -1,4 +1,4 @@
-<!-- <link rel="stylesheet" href="https://raw.githubusercontent.com/ImNoOSRS/VadeStuff/main/main.css"> -->
+<!-- <link rel="stylesheet" href="https://raw.githubusercontent.com/ImNoOSRS/VadeStuff/main/main2.css"> -->
 <!-- <link rel="stylesheet" href="./main.css"> -->
 <div class="min-w-[490px] py-12 pt-8 px-8 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 justify-center items-center flex flex-col bg-main1 rounded-xl font-bitter">
     <p class="text-4xl mb-8 text-green-500 select-none">Zond Settings</p>
